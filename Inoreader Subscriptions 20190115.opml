@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of 逻辑 from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="时事政治" title="时事政治">
+      <outline text="技術討論區 | 草榴社區 - t66y.com" title="技術討論區 | 草榴社區 - t66y.com" type="rss" xmlUrl="https://rsshub.app/t66y/7" htmlUrl="http://www.t66y.com/thread0806.php?fid=7"/>
+      <outline text="乌有之乡网刊" title="乌有之乡网刊" type="rss" xmlUrl="http://www.wyzxwk.com/e/web/index.php?type=rss2&amp;classid=0" htmlUrl="http://www.wyzxwk.com/"/>
+    </outline>
+    <outline text="新闻杂志" title="新闻杂志">
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="http://feeds.feedburner.com/ruanyifeng" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+      <outline text="观止" title="观止" type="rss" xmlUrl="https://rsshub.app/guanzhi" htmlUrl="https://meiriyiwen.com/"/>
+      <outline text="「ONE · 一个」" title="「ONE · 一个」" type="rss" xmlUrl="https://rsshub.app/one" htmlUrl="http://wufazhuce.com/"/>
+      <outline text="好奇心日报" title="好奇心日报" type="rss" xmlUrl="http://www.qdaily.cn/feed.xml" htmlUrl="http://www.qdaily.com/"/>
+      <outline text="少数派" title="少数派" type="rss" xmlUrl="http://sspai.com/feed" htmlUrl="http://sspai.com/feed"/>
+      <outline text="Readhub-热门话题" title="Readhub-热门话题" type="rss" xmlUrl="https://rsshub.app/readhub/category/topic" htmlUrl="https://readhub.me/"/>
+    </outline>
+    <outline text="机器学习" title="机器学习">
+      <outline text="36大数据" title="36大数据" type="rss" xmlUrl="http://www.36dsj.com/feed" htmlUrl="http://www.36dsj.com/"/>
+      <outline text="爱可可-爱生活的微博" title="爱可可-爱生活的微博" type="rss" xmlUrl="https://api.izgq.net/weibo/rss/1402400261" htmlUrl="https://weibo.com/1402400261"/>
+      <outline text="远东轶事 (Zhihu)" title="远东轶事 (Zhihu)" type="rss" xmlUrl="https://zhuanlan.zhihu.com/yuandong" htmlUrl="https://zhuanlan.zhihu.com/yuandong"/>
+      <outline text="ResysChina (Zhihu)" title="ResysChina (Zhihu)" type="rss" xmlUrl="https://zhuanlan.zhihu.com/resyschina" htmlUrl="https://zhuanlan.zhihu.com/resyschina"/>
+      <outline text="机器之心微信公众号" title="机器之心微信公众号" type="rss" xmlUrl="https://rsshub.app/wechat/wasi/5b575dd058e5c4583338dbd3" htmlUrl="https://w.qnmlgb.tech/authors/5b575dd058e5c4583338dbd3/"/>
+      <outline text="PaperWeekly - 知乎专栏" title="PaperWeekly - 知乎专栏" type="rss" xmlUrl="https://rss.lilydjwg.me/zhihuzhuanlan/paperweekly" htmlUrl="http://zhuanlan.zhihu.com/api/columns/paperweekly/posts?limit=20"/>
+      <outline text="新智元" title="新智元" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/AI_era.weixin.xml" htmlUrl="http://yiding.9.cn/ac/2332"/>
+      <outline text="菜鸡的啄米日常 (Zhihu)" title="菜鸡的啄米日常 (Zhihu)" type="rss" xmlUrl="https://zhuanlan.zhihu.com/chicken-life" htmlUrl="https://zhuanlan.zhihu.com/chicken-life"/>
+      <outline text="知乎专栏-无痛的机器学习" title="知乎专栏-无痛的机器学习" type="rss" xmlUrl="https://rsshub.app/zhihu/zhuanlan/hsmyy" htmlUrl="https://zhuanlan.zhihu.com/hsmyy"/>
+      <outline text="大数据文摘微信公众号" title="大数据文摘微信公众号" type="rss" xmlUrl="https://rsshub.app/wechat/wasi/5b73e157244d4e491d31f9aa" htmlUrl="https://w.qnmlgb.tech/authors/5b73e157244d4e491d31f9aa/"/>
+      <outline text="程序员山居笔记 (Zhihu)" title="程序员山居笔记 (Zhihu)" type="rss" xmlUrl="https://zhuanlan.zhihu.com/coding-future" htmlUrl="https://zhuanlan.zhihu.com/coding-future"/>
+      <outline text="无痛的机器学习 (Zhihu)" title="无痛的机器学习 (Zhihu)" type="rss" xmlUrl="https://zhuanlan.zhihu.com/hsmyy" htmlUrl="https://zhuanlan.zhihu.com/hsmyy"/>
+      <outline text="AlgorithmDog" title="AlgorithmDog" type="rss" xmlUrl="http://www.algorithmdog.com/feed" htmlUrl="http://www.algorithmdog.com/"/>
+      <outline text="深度学习大讲堂 (Zhihu)" title="深度学习大讲堂 (Zhihu)" type="rss" xmlUrl="https://zhuanlan.zhihu.com/dlclass" htmlUrl="https://zhuanlan.zhihu.com/dlclass"/>
+      <outline text="智能单元 (Zhihu)" title="智能单元 (Zhihu)" type="rss" xmlUrl="https://zhuanlan.zhihu.com/intelligentunit" htmlUrl="https://zhuanlan.zhihu.com/intelligentunit"/>
+      <outline text="Hic Rhodus, hic salta (Zhihu)" title="Hic Rhodus, hic salta (Zhihu)" type="rss" xmlUrl="https://zhuanlan.zhihu.com/HicRhodushicsalta" htmlUrl="https://zhuanlan.zhihu.com/HicRhodushicsalta"/>
+    </outline>
+  </body>
+</opml>
